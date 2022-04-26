@@ -1,3 +1,5 @@
+// http://our-domain/weather
+
 const Weather = () => {
     return (
       <h1>Toronto Weekly Weather</h1>

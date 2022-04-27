@@ -3,7 +3,10 @@ This is my first Next.js app.
 To install a project:
 1) Install Node.js if not installed.
 2) "npx create-next-app"
-3) Next.js servers are run with "npm run dev" command
+3) If you downloaded an already started project use "npm i" command to install its dependencies.
+
+To start the server, run,
+1) Next.js servers are run with "npm run dev" command
 
 "pages" folder
 - "/pages/index.js" loads the default webpage "http://our-domain".

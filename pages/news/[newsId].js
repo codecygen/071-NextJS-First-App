@@ -14,7 +14,11 @@ const DetailPage = () => {
   console.log(newsId);
 
   return (
-    <h1>Detail Page</h1>
+    <>
+      <h1>Detail Page</h1>
+      {/* NextJS-Dynamic-Links */}
+      <p>{newsId}</p>
+    </>
   );
 };
 

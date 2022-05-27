@@ -17,3 +17,4 @@ To start the server, run,
 Keywords:
 - NextJS-Dynamic-Links
 - React-Link-Clicking-Button-Link-Component
+- NextJS-Highly-Dynamic-Links
